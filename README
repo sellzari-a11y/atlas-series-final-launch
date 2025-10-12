@@ -1,0 +1,24 @@
+
+Topic/Tutorial	Where to Find It (Based on Our Chat)	Key Function
+1. Initial Launch & Access	Search for the response containing "Saving and Opening it as a Desktop App."	How to run the HTML file (i.e., saving as .html and double-clicking).
+2. Updating the Content	Search for the phrase "Add more shortcuts to the internal JavaScript list."	How to edit the data by adding new entries to the factsData array inside the application file (app.html).
+3. Fixing the VPS Login	Search for the response containing "The Solution: Use Your VPS Credentials" or "The Final Action: Manually Retype the Password."	How to log in via SSH/SCP by using your VPS IP, username, and Port 22.
+4. Final Lead Funnel Connection	Search for the response containing "Step 2: Edit index.html on GitHub."	How to paste the Mailchimp Form Action URL into the <form> tag on the live index.html file.
+5. The Final Launch URL	Search for the response containing "Your site is live at..."	The exact, final, live URL for your website on GitHub Pages.
+
+Export to Sheets
+Recommendation for Future Documentation
+To avoid losing these essential instructions again, I recommend two things for your next project:
+
+Create a README.md File: In your new GitHub repository (atlas-series-final-launch), create a file named README.md. Copy all the instructions from the table above into this file. This makes the documentation live alongside the code.
+
+Use Simple Comments: When you make future code edits, leave a brief HTML comment (<!-- YOUR COMMENT HERE -->) right next to the code explaining why you made the change.
+
+By documenting your setup within the new repository, you ensure the "tutorials" are always exactly where you need them!
+
+
+
+
+
+
+
